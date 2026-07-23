@@ -1,7 +1,6 @@
 # ESP32-Captive-Portal-Weather-Station
 
-================================================================================
-BUILDING AN ESP32 CAPTIVE PORTAL WEATHER STATION - COMPLETE TUTORIAL
+BUILDING AN ESP32 CAPTIVE PORTAL WEATHER STATION 
 ================================================================================
 
 1. PROJECT OVERVIEW
